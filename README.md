@@ -88,7 +88,8 @@ Replace `YOUR-USERNAME` and `YOUR-REPOSITORY` with the actual values for this re
 ### Step 2: Open a terminal in the project folder
 
 Navigate to the folder that contains `Dino.java`:
-
+or 
+Navigate to the folder that contains `Dino.jar`:
 ```
 cd path/to/your/folder
 ```
@@ -110,6 +111,12 @@ java Dino
 ```
 
 A window titled **Run Dino Run** will open. Press **Space** to start.
+
+Alternately 
+You can just run the jar file if you have hava installed
+
+Run this command: java -jar Dino.jar
+
 
 ### Running from Visual Studio Code
 
