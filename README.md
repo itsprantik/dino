@@ -115,8 +115,11 @@ A window titled **Run Dino Run** will open. Press **Space** to start.
 Alternately 
 You can just run the jar file if you have hava installed
 
-Run this command: java -jar Dino.jar
+Run this command: 
 
+```
+java -jar Dino.jar
+```
 
 ### Running from Visual Studio Code
 
