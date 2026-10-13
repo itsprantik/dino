@@ -34,7 +34,7 @@ If you see any version number then you have JDK isntalled. Of you see error then
 
 ### Installing a JDK
 
-1. Install java from [Oracle|Java] (https://www.oracle.com/in/java/) and download JDK
+1. Install java from [OracleJava] (https://www.oracle.com/in/java/) and download JDK
 2. Run the installer. 
 3. And recheck again using the above command.
 
