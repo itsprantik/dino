@@ -9,11 +9,12 @@ The entire game is a single java file named, "Dino.java"  and uses inbuilt java 
 You need java and java development kit (JDK) installed ( higher than version 8 )
 
 the JDK uses two programs
-
+~~~
 | Program  |          Purpose         |
 |                |                                |
 |"javac"      | Compiles the code   |
 |"java"        | Runs the code        |
+~~~
 
 ## Check if whether Java is installed or not
 
